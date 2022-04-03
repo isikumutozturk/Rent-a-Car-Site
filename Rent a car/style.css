@@ -1,0 +1,71 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.baslik {
+    font-size: 60px;
+    color: red;
+    margin-top: 20px;
+}
+
+.links {   
+    font-size: 20px;
+    color: blue;
+    margin-top: 20px;
+}
+
+a {
+    margin-top: 200px;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.anasayfa {
+    font-size: 40px;
+    color: blue;
+    margin-top: 20px;
+}
+
+.fs-18-b {
+    font-size: 18px;
+    font-weight: bold;
+    color: yellowgreen;
+}
+
+.fs-18 {
+    font-size: 18px;
+}
+
+.list {
+    list-style-position: inside
+}
+
+.araclar p {
+    font-size: 20px;
+    float: left;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.araclar span {
+    font-size: 20px;
+    color: blue;
+}
+
+.araclar img {
+    width: 950px;
+    height: 550px;
+}
+
+.about-us{
+    text-align: left;
+}
